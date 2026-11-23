@@ -1,0 +1,42 @@
+[
+  {
+    "inputs": {"request": "תכתבי לשושי שאני מגיעה מחר בעשר, ושהיא תשמור לי מקום"},
+    "outputs": {"recipient_email": "6161294@gmail.com", "key_points": ["מגיעה מחר בעשר", "לשמור מקום"]}
+  },
+  {
+    "inputs": {"request": "אממ תשלחי למשה ש... שהפגישה נדחתה ליום שלישי, באותה שעה"},
+    "outputs": {"recipient_email": "moshe@example.com", "key_points": ["הפגישה נדחתה ליום שלישי", "באותה שעה"]}
+  },
+  {
+    "inputs": {"request": "מייל לוועד הבית, המנורה בחדר המדרגות בקומה שלישית לא עובדת כבר שבוע"},
+    "outputs": {"recipient_email": "vaad@example.com", "key_points": ["המנורה בחדר המדרגות בקומה שלישית לא עובדת", "כבר שבוע"]}
+  },
+  {
+    "inputs": {"request": "תכתבי לעצמי תזכורת לקנות מחברות ועטים לפני יום ראשון"},
+    "outputs": {"recipient_email": "y0583244833@gmail.com", "key_points": ["לקנות מחברות ועטים", "לפני יום ראשון"]}
+  },
+  {
+    "inputs": {"request": "למורה שרה, תודה רבה על השיעור היום, היה מאוד ברור"},
+    "outputs": {"recipient_email": "sara@example.com", "key_points": ["תודה על השיעור היום", "היה ברור"]}
+  },
+  {
+    "inputs": {"request": "תשלחי לשושנה, לא רגע, לשושי, שהמסמכים מוכנים ואפשר לאסוף אותם מחר"},
+    "outputs": {"recipient_email": "6161294@gmail.com", "key_points": ["המסמכים מוכנים", "אפשר לאסוף מחר"]}
+  },
+  {
+    "inputs": {"request": "לכהן, שאלה קצרה: האם הדוח צריך להיות מוגש עד חמישי או עד ראשון?"},
+    "outputs": {"recipient_email": "moshe@example.com", "key_points": ["שאלה אם הדוח מוגש עד חמישי או עד ראשון"]}
+  },
+  {
+    "inputs": {"request": "לוועד, אני מבקשת לדעת מתי יהיה ניקיון הבניין החודש"},
+    "outputs": {"recipient_email": "vaad@example.com", "key_points": ["מתי יהיה ניקיון הבניין החודש"]}
+  },
+  {
+    "inputs": {"request": "תכתבי לשרה שאני לא אוכל להגיע ביום רביעי, ואם אפשר לקבל את החומר במייל"},
+    "outputs": {"recipient_email": "sara@example.com", "key_points": ["לא אוכל להגיע ביום רביעי", "לקבל את החומר במייל"]}
+  },
+  {
+    "inputs": {"request": "תשלחי לדוד שהחבילה הגיעה"},
+    "outputs": {"recipient_email": "", "key_points": ["החבילה הגיעה"]}
+  }
+]

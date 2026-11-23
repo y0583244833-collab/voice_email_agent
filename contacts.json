@@ -1,0 +1,45 @@
+[
+  {
+    "name": "משה כהן",
+    "aliases": [
+      "משה",
+      "מוישי",
+      "כהן"
+    ],
+    "email": "moshe@example.com"
+  },
+  {
+    "name": "שרה לוי",
+    "aliases": [
+      "שרה",
+      "המורה שרה"
+    ],
+    "email": "sara@example.com"
+  },
+  {
+    "name": "ועד הבית",
+    "aliases": [
+      "הוועד",
+      "ועד",
+      "ועד הבניין"
+    ],
+    "email": "vaad@example.com"
+  },
+  {
+    "name": "שושי",
+    "aliases": [
+      "שושי",
+      "שושנה"
+    ],
+    "email": "6161294@gmail.com"
+  },
+  {
+    "name": "ריקי",
+    "aliases": [
+      "ריקי",
+      "אני",
+      "לעצמי"
+    ],
+    "email": "y0583244833@gmail.com"
+  }
+]

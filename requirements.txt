@@ -1,0 +1,14 @@
+# --- הגרף והמודלים ---
+langgraph>=0.6           # בניית הגרף: State, צמתים, קשתות, interrupt, checkpointer
+langchain-google-genai>=2.1  # החיבור של LangChain למודלי Gemini (תמלול + כתיבה)
+langsmith>=0.4           # traces, דאטהסט וניסויים
+
+# --- ממשק ---
+streamlit>=1.40          # כולל את st.audio_input להקלטת קול
+
+# --- Gmail ---
+google-api-python-client>=2.0   # קריאות ל-Gmail API (שליחה / טיוטה)
+google-auth-oauthlib>=1.2       # התחברות לחשבון Gmail שלך (OAuth)
+
+# --- עזר ---
+python-dotenv>=1.0       # טעינת המפתחות מקובץ .env
